@@ -1,3 +1,9 @@
+# 原作者：hiroi-sora
+项目链接：https://github.com/hiroi-sora/Umi-OCR
+
+
+
+
 <p align="center">
   <a href="https://github.com/hiroi-sora/Umi-OCR">
     <img width="200" height="128" src="https://tupian.li/images/2022/10/27/icon---256.png" alt="Umi-OCR">
